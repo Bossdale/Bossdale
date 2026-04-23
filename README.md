@@ -2,7 +2,7 @@
 
 ###  Full-Stack Developer |  AI Engineer |  Game Developer
 
- 3rd Year BS Computer Science @ Cebu Institute of Technology - University  
+ 3rd Year BS Computer Science at Cebu Institute of Technology - University  
  Building scalable systems, AI-powered apps, and interactive experiences  
  Passionate about solving real-world problems through code  
 
@@ -23,7 +23,7 @@
 - Integrated **on-device AI (Gemma 2B via Ollama)** for tutoring & quizzes
 - Designed for accessibility even without internet connectivity
 
-🔗 https://github.com/Bossdale/PocketClass  
+🔗 https://github.com/Bossdale/PocketClass 
 
 ---
 
@@ -33,7 +33,7 @@
 - Implemented **C++ firmware** for Bluetooth/WiFi provisioning
 - Enabled real-time medication tracking & adherence monitoring  
 
-🔗 https://github.com/Bossdale/MedSync  
+🔗 https://github.com/CodeJamjamzz/Automated_Pillbox
 
 ---
 
@@ -43,7 +43,7 @@
 - Designed backend APIs for hiring workflows & transactions  
 - Focused on scalability and real-time data handling  
 
-🔗 https://github.com/Bossdale/BlueHire  
+🔗 https://github.com/ero-s/BlueHire 
 
 ---
 
@@ -52,7 +52,7 @@
 - Created a **disaster/emergency system** using Django REST Framework  
 - Implemented real-time incident tracking & secure data systems  
 
-🔗 https://github.com/Bossdale/ALERT  
+🔗 https://github.com/doinath/TeamPythers_Alert
 
 ---
 
@@ -61,7 +61,17 @@
 - Developed a modern company website using React + Tailwind  
 - Focused on UI/UX and responsive portfolio presentation  
 
-🔗 https://github.com/Bossdale/Lumon-Construction  
+🔗 https://github.com/Bossdale/lumon-website 
+
+---
+### Wildcat FreshFinds
+**Kotlin Game Developer**
+
+- Developed a community-driven marketplace platform tailored for the CIT-U campus
+- Implemented item listings, category filtering, security-driven and interactive UI using Kotlin.
+- Focused on creating a secure, localized trade environment for students and faculty
+
+🔗 https://github.com/Tong-nvk/Wildcat-FreshFinds
 
 ---
 
@@ -70,7 +80,34 @@
 - Built a 2D multiplayer game in Godot (GDScript)  
 - Implemented player mechanics, AI behavior & game states  
 
-🔗 https://github.com/Bossdale/Trash-Dash  
+🔗 https://github.com/Pinghtdog/TrashDash
+
+---
+
+### Cooking Ina, Ang Sarap!
+***Game Developer***
+
+- Developed a fast-paced time-management simulation set in a localized CIT-U campus environment using Java
+- Programmed complex business logic including dynamic income targets, customer patience metrics, and penalty-based tip deductions
+- Designed an immersive narrative following a resilient Filipina mother, integrating local culture with high-stakes resource management
+- Engineered escalating difficulty curves through increased customer volume and tighter time constraints across progressive levels
+
+🔗 https://github.com/ero-s/Cooking-Ina-Ang-Sarap-
+
+---
+### HarvestFest
+***Java Game Developer***
+
+- Developed a story-driven 2D RPG built entirely in Java, featuring a dynamic day-night cycle mechanics
+- Engineered a dual-gameplay system balancing agricultural management with action-packed combat
+- Designed character progression systems including stat leveling, skill unlocks, and equipment forging
+- Implemented a heartfelt narrative focused on resource management and defensive strategy
+
+🔗 https://github.com/ero-s/HarvestFest
+
+---
+
+---
 
 ---
 
