@@ -80,7 +80,7 @@
 - Built a 2D multiplayer game in Godot (GDScript)  
 - Implemented player mechanics, AI behavior & game states  
 
-🔗 https://github.com/Pinghtdog/TrashDash
+🔗 https://kerps.itch.io/trashdash 🔗 https://github.com/Pinghtdog/TrashDash 
 
 ---
 
