@@ -43,7 +43,7 @@
 - Designed backend APIs for hiring workflows & transactions  
 - Focused on scalability and real-time data handling  
 
-🔗 https://github.com/ero-s/BlueHire 
+🔗 https://bluehire-app.vercel.app/ 🔗 https://github.com/ero-s/BlueHire  
 
 ---
 
@@ -61,7 +61,7 @@
 - Developed a modern company website using React + Tailwind  
 - Focused on UI/UX and responsive portfolio presentation  
 
-🔗 https://lumon-website.vercel.app/
+🔗 https://lumon-website.vercel.app/ 🔗 https://github.com/Bossdale/lumon-website
 
 ---
 ### Wildcat FreshFinds
