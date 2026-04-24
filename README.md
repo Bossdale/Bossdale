@@ -1,10 +1,18 @@
-# Hey, I'm Shervin Dale Tabernero
+<div align="center">
 
-###  Full-Stack Developer |  AI Engineer |  Game Developer
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=36&pause=900&color=88C0D0&center=true&vCenter=true&width=600&lines=Hello!+I'm+Shervin+Dale+Tabernero" alt="Typing SVG" />
+  </a>
 
- 3rd Year BS Computer Science at Cebu Institute of Technology - University  
- Building scalable systems, AI-powered apps, and interactive experiences  
- Passionate about solving real-world problems through code  
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=88C0D0&text=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Game%20Developer&height=50&fontSize=20&animation=twinkling" alt="Animated Subtitle" />
+
+  <br>
+
+  3rd Year BS Computer Science at Cebu Institute of Technology - University <br>
+  Building scalable systems, AI-powered apps, and interactive experiences <br>
+  Passionate about solving real-world problems through code
+
+</div>
 
 ---
 
