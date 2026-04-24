@@ -61,7 +61,7 @@
 - Developed a modern company website using React + Tailwind  
 - Focused on UI/UX and responsive portfolio presentation  
 
-🔗 https://github.com/Bossdale/lumon-website 
+🔗 https://lumon-website.vercel.app/
 
 ---
 ### Wildcat FreshFinds
