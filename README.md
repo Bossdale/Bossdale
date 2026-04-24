@@ -17,14 +17,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bossdale&show_icons=true&theme=nord_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Bossdale's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bossdale&theme=nord_dark&hide_border=true" alt="Bossdale's GitHub Streak" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bossdale&show_icons=true&theme=nord&hide_border=true" alt="Bossdale's GitHub Stats" height="195" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bossdale&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="Top Languages" height="195" />
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bossdale&layout=compact&theme=nord_dark&hide_border=true" alt="Top Languages" />
+  <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bossdale&theme=nord&hide_border=true" alt="Bossdale's GitHub Streak" height="195" />
 </div>
 
 <br>
