@@ -10,8 +10,44 @@
 
 ## GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bossdale&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bossdale&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bossdale&theme=nord_dark" alt="Bossdale's Profile Details" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bossdale&show_icons=true&theme=nord_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Bossdale's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bossdale&theme=nord_dark&hide_border=true" alt="Bossdale's GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bossdale&layout=compact&theme=nord_dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bossdale/Bossdale/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bossdale/Bossdale/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bossdale/Bossdale/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,ts,py,cs,godot,c,react&theme=dark&perline=8" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=tailwind,spring,django,firebase,mysql,git,github,vscode&theme=dark&perline=8" />
+  </a>
+</div>
 
 ---
 
