@@ -25,6 +25,10 @@
 
 <br>
 
+---
+
+## Snake Contribution
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bossdale/Bossdale/output/github-contribution-grid-snake-dark.svg">
@@ -159,21 +163,34 @@
 
 ---
 
-##  Achievements
+## 🏆 Achievements
 
-🏅 Top 20 Finalist – BorNEO HackWknd 2026 (Malaysia)  
-🥈 2nd Place – iAcademy Hackathon 2026 (Cebu)  
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h2>🏅 Top 20 Finalist</h2>
+        <p><b>BorNEO HackWknd 2026</b><br>📍 Malaysia</p>
+        <a href="https://www.instagram.com/p/DW3rJSmFKiR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">🔗 View Instagram Feature</a>
+      </td>
+      <td width="50%" align="center">
+        <h2>🥈 2nd Place</h2>
+        <p><b>iAcademy Hackathon 2026</b><br>📍 Cebu</p>
+        <a href="https://www.facebook.com/share/p/18dRX58kds/">🔗 View Facebook Announcement</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://ph.linkedin.com/in/shervin-dale-tabernero-4aa376380  
-- 💻 GitHub: https://github.com/Bossdale  
-- 📧 Email: shervindalemaupotabern@gmail.com  
+- LinkedIn: https://ph.linkedin.com/in/shervin-dale-tabernero-4aa376380  
+-  Email: shervindalemaupotabern@gmail.com  
 
 ---
 
 ## ⚡ Fun Fact
 
-I build systems that work **even without internet** — because real-world problems don’t wait for WiFi 😄
+I build systems that work **even without internet** — because real-world problems don’t wait for WiFi 
