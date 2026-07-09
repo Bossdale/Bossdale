@@ -8,7 +8,7 @@
 
   <br>
 
-  3rd Year BS Computer Science at Cebu Institute of Technology - University <br>
+  4th Year BS Computer Science at Cebu Institute of Technology - University <br>
   Building scalable systems, AI-powered apps, and interactive experiences <br>
   Passionate about solving real-world problems through code
 
